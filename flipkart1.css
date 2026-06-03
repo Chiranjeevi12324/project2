@@ -1,0 +1,404 @@
+*{
+    position: relative;
+    
+}
+ .head-container1{
+    position: relative;
+    position:absolute;
+    
+    top:1px;
+    left:15px;
+  
+    padding:auto;
+    height: 60px;
+     width: 1400px;
+     border-radius: 15px;
+     
+ }
+ .btn1{
+  position: absolute;
+  top:13px;
+  left:19px;
+  border-radius:10px ;
+  padding: 8px;
+  color: rgb(5, 11, 15);
+  background-color: rgb(246, 242, 5);
+  width: 92px;
+  height: 42px;
+  border-color: rgb(45, 133, 210);
+ }
+.btn2{
+   position: absolute;
+   top:13px;
+   left:129px;
+   border-radius:10px ;
+   padding: 8px;
+   color: rgb(8, 6, 6);
+
+   border-color: rgb(40, 126, 201);
+   width: 91px;
+   height: 42px;
+}
+#h1{
+    position:absolute;
+    top:7px;
+    left:72%;
+    color: black;
+   font-size: medium;
+   
+}
+#h2{
+    position:absolute;
+    top:22px;
+    left:82%;
+    color: rgb(0, 93, 242);
+}
+.head-container2{
+    position: absolute;
+    top: 80px;
+    left: 15px;
+   
+    padding:auto;
+    height: 60px;
+     width: 1400px;
+     border-radius: 15px;
+}
+.login-icon{
+    position: absolute;
+    top:20px;
+    left:1100px;
+    font-size: 20px;
+}
+.btn3-login{
+    position: absolute;
+    top:13px;
+    left:1125px;
+    border-radius:10px ;
+    padding: 8px;
+    color: rgb(5, 11, 15);
+    background-color: rgb(255, 255, 255);
+    width: 70px;
+    border-color: rgb(228, 231, 235);
+}
+.btn4-more{
+    position: absolute;
+    top:13px;
+    left:1252px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.cart-icon{
+    position: absolute;
+    top:17px;
+    left:1320px;
+    font-size: 20px;
+}
+.btn5-cart{
+    position: absolute;
+    top:13px;
+    left:1350px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.search{
+    position: absolute;
+    top:13px;
+    left:9px;
+    border-color: rgb(17, 78, 193);
+}
+.search-box{
+    border-radius: 10px;
+    padding: 8px;
+    width: 909px;
+    height: 21px;
+    border-color: rgb(43, 111, 239);
+}
+
+
+.head-container3{
+    position: relative;
+    position: absolute;
+    top: 150px;
+    left: 15px;
+   
+    padding:auto;
+    height: 60px;
+     width: 1400px;
+     border-radius: 15px;
+}
+.box1-foryou{
+    position: absolute;
+    top:32px;
+    left:9px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box2-fashion{
+    position: absolute;
+    top:32px;
+    left:90px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box3-mobiles{
+    position: absolute;
+    top:32px;
+    left:170px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box4-beauty{
+    position: absolute;
+    top:32px;
+    left:250px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box5-electronics{
+    position: absolute;
+    top:32px;
+    left:320px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box6-home{
+    position: absolute;
+    top:32px;
+    left:415px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box7-appliances{
+    position: absolute;
+    top:32px;
+    left:480px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box8-toys{
+    position: absolute;
+    top:32px;
+    left:570px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+
+}
+.box9-food{
+    position: absolute;
+    top:32px;
+    left:690px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box10-auto{
+    position: absolute;
+    top:32px;
+    left:830px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box11-wheelers{
+    position: absolute;
+    top:32px;
+    left:960px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box12-sports{
+    position: absolute;
+    top:32px;
+    left:1060px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box13-books{
+    position: absolute;
+    top:32px;
+    left:1170px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+.box14-furniture{
+    position: absolute;
+    top:32px;
+    left:1250px;
+    border-radius:10px ;
+    padding: 8px;
+    color: black;
+    background-color: rgba(233, 224, 224, 0);
+    border-color: aliceblue;
+}
+
+.emoji-container{
+    position: relative;
+    position: absolute;
+    top: 2px;
+    left: 4px;
+   
+    padding:auto;
+    height: 60px;
+     width: 1400px;
+
+}
+.emoji1-foryou{
+    position: absolute;
+    top:5px;
+    left:28px;
+    
+}
+.emoji2-fashion{
+    position: absolute;
+    top:5px;
+    left:106px;
+}
+.emoji3-mobiles{
+    position: absolute;
+    top:5px;
+    left:191px;
+}
+.emoji4-beauty{
+    position: absolute;
+    top:5px;
+    left:271px;
+}
+.emoji5-electronics{
+    position: absolute;
+    top:5px;
+    left:346px;
+}
+.emoji6-home{
+    position: absolute;
+    top:5px;
+    left:426px;
+}
+.emoji7-appliances{
+    position: absolute;
+    top:5px;
+    left:506px;
+}
+.emoji8-toys{
+    position: absolute;
+    top:5px;
+    left:607px;
+}
+.emoji9-food{
+    position: absolute;
+    top:5px;
+    left:735px;
+}
+.emoji10-auto{
+    position: absolute;
+    top:5px;
+    left:871px;
+}
+.emoji11-wheelers{
+    position: absolute;
+    top:5px;
+    left:986px;
+}
+.emoji12-sports{
+    position: absolute;
+    top:5px;
+    left:1070px;
+}
+.emoji13-books{
+    position: absolute;
+    top:5px;
+    left:1186px;
+}
+.emoji14-furniture{
+    position: absolute;
+    top:5px;
+    left:1266px;
+}
+
+.cards1{
+    position: absolute;
+    top: 250px;
+    left: 0;
+    width: 100%;
+    height: 800px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+    
+}
+.img{
+    border-radius: 15px;
+    width: 460px;
+    height: 305px;
+}
+.img1{
+    border-radius: 15px;
+    width: 150px;
+    height: 210px;
+}
+.img2{
+    border-radius: 15px;
+    width: 167px;
+    height: 210px;
+}
+.cards2{
+    position: absolute;
+    top: 1050px;
+    left: 0;
+    width: 100%;
+    height: 300px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+.heading-container{
+    position: absolute;
+    top: 990px;
+    left: 15px;
+    padding:auto;
+    height: 60px;
+     width: 1400px;
+     border-radius: 15px;
+}
